@@ -1,0 +1,15 @@
+C:\Users\gyoum\desktop\C#\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.exe
+C:\Users\gyoum\desktop\C#\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.deps.json
+C:\Users\gyoum\desktop\C#\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.runtimeconfig.json
+C:\Users\gyoum\desktop\C#\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.dll
+C:\Users\gyoum\desktop\C#\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\gyoum\desktop\C#\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\gyoum\desktop\C#\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyoum\desktop\C#\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\gyoum\desktop\C#\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\gyoum\desktop\C#\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\gyoum\desktop\C#\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.dll
+C:\Users\gyoum\desktop\C#\MyConsoleApp\obj\Debug\net7.0\refint\MyConsoleApp.dll
+C:\Users\gyoum\desktop\C#\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\gyoum\desktop\C#\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\gyoum\desktop\C#\MyConsoleApp\obj\Debug\net7.0\ref\MyConsoleApp.dll
